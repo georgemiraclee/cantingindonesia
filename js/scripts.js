@@ -19,7 +19,6 @@
 		}
 		hidePreloader();
 	});
-
 	
 	/* Navbar Scripts */
 	// jQuery to collapse the navbar on scroll
@@ -341,9 +340,24 @@
     });
 
 
+    function mobileNav() {
+        var width = $(window).width();
+        $('.submenu').on('click', function() {
+          if(width < 767) {
+            $('.submenu ul').removeClass('active');
+            $(this).find('ul').toggleClass('active');
+          }
+        });
+      }
+    
+    
+    })(window.jQuery);
+
+
+
 	/* Removes Long Focus On Buttons */
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
 	});
 
-})(jQuery);
+(jQuery);
