@@ -778,24 +778,28 @@ input[type="checkbox"] {
 
 .header .header-content {
   padding-top: 8rem;
-  padding-bottom: 4rem;
-  /* background: url("../images/11111.png") center center no-repeat; */
+  padding-bottom: 14rem;
+ background: url("../images/index.png");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
   background-size: cover;
-  text-align: 500px 100px;
 }
 
 .header .text-container {
   margin-bottom: 4rem;
+ 
 }
 
 .header h1 {
   margin-bottom: 1.125rem;
   font-size: 2.5rem;
   line-height: 3.125rem;
+  color : rgb(181, 152, 105)
 }
 
 .header .p-large {
   margin-bottom: 1.875rem;
+  color : rgb(255, 255, 255)
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 980px) {
   .header .image-container {
