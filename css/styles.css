@@ -797,12 +797,15 @@ input[type="checkbox"] {
 .header .p-large {
   margin-bottom: 1.875rem;
 }
-.header .image-container {
-  width: 25rem;
-  height: 20rem;
-  margin-right: auto;
-  margin-bottom: 2rem;
-  margin-left: auto;
+@media only screen and (min-device-width: 320px) and (max-device-width: 980px) {
+  .header .image-container {
+    display: none;
+    width: 23rem;
+    height: 20rem;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    margin-left: auto;
+  }
 }
 
 /*************************/
