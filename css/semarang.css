@@ -1481,7 +1481,6 @@ Portfolio
 
 .our-portfolio:before {
   content: '';
-  background-image: url(../images/portfolio-right-dec.jpg);
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
