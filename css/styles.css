@@ -779,27 +779,26 @@ input[type="checkbox"] {
 .header .header-content {
   padding-top: 8rem;
   padding-bottom: 14rem;
- background: url("../images/index.png");
- background-repeat: no-repeat;
- background-attachment: fixed;
+  background: url("../images/index.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 
 .header .text-container {
   margin-bottom: 4rem;
- 
 }
 
 .header h1 {
   margin-bottom: 1.125rem;
   font-size: 2.5rem;
   line-height: 3.125rem;
-  color : rgb(181, 152, 105)
+  color: rgb(181, 152, 105);
 }
 
 .header .p-large {
   margin-bottom: 1.875rem;
-  color : rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 980px) {
   .header .image-container {
@@ -821,7 +820,7 @@ input[type="checkbox"] {
   text-align: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .slider-1 h5 {
@@ -844,7 +843,7 @@ input[type="checkbox"] {
   text-align: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .cards-1 h2 {
@@ -886,7 +885,7 @@ input[type="checkbox"] {
   padding-bottom: 3.75rem;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .basic-1 .text-container {
@@ -908,7 +907,7 @@ input[type="checkbox"] {
   padding-bottom: 4rem;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .basic-2 .image-container {
@@ -943,7 +942,7 @@ input[type="checkbox"] {
   text-align: left;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .lightbox-basic .container {
@@ -1038,7 +1037,7 @@ input[type="checkbox"] {
   text-align: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .cards-2 h2 {
@@ -1175,7 +1174,7 @@ input[type="checkbox"] {
   background-color: #f9fafc;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .form-1 h2 {
@@ -1203,7 +1202,7 @@ input[type="checkbox"] {
 .form-1 .image-container {
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 /*********************/
@@ -1214,7 +1213,7 @@ input[type="checkbox"] {
   padding-bottom: 6.125rem;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .basic-3 h2 {
@@ -1226,7 +1225,7 @@ input[type="checkbox"] {
   margin-bottom: 2.25rem;
   background-repeat: no-repeat;
   background-attachment: fixed;
-   background-size: cover;
+  background-size: cover;
 }
 
 .basic-3 .image-container img {
