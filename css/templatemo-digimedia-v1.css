@@ -184,7 +184,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #726ae3;
+  color: #d8a600;
   text-transform: uppercase;
   margin-bottom: 15px;
 }
@@ -199,20 +199,20 @@ body {
 
 .section-heading h4 em {
   font-style: normal;
-  color: #726ae3;
+  color: #d8a600;
 }
 
 .section-heading .line-dec {
   width: 50px;
   height: 2px;
-  background-color: #726ae3;
+  background-color: #d8a600;
 }
 
 .border-first-button a {
   display: inline-block !important;
   padding: 10px 20px !important;
-  color: #fa65b1 !important;
-  border: 1px solid #fa65b1 !important;
+  color: #d8a600 !important;
+  border: 1px solid #d8a600 !important;
   border-radius: 23px;
   font-weight: 500 !important;
   letter-spacing: 0.3px !important;
@@ -220,7 +220,7 @@ body {
 }
 
 .border-first-button a:hover {
-  background-color: #fa65b1;
+  background-color: #d8a600;
   color: #fff !important;
 }
 
@@ -1632,7 +1632,7 @@ Portfolio
 
 .portfolio-item:hover .down-content h4,
 .portfolio-item:hover .down-content span {
-  color: #fa65b1;
+  color: #d8a600;
 }
 
 .portfolio-item .thumb img {
@@ -1690,7 +1690,7 @@ Portfolio
 
 .our-portfolio .owl-nav span:hover {
   color: #fff;
-  background-color: #fa65b1;
+  background-color: #d8a600;
 }
 
 

@@ -1530,7 +1530,7 @@ Portfolio
 
 .portfolio-item:hover .down-content h4,
 .portfolio-item:hover .down-content span {
-  color: #fa65b1;
+  color: #d8a600;
 }
 
 .portfolio-item .thumb img {
@@ -1588,7 +1588,7 @@ Portfolio
 
 .our-portfolio .owl-nav span:hover {
   color: #fff;
-  background-color: #fa65b1;
+  background-color: #d8a600;
 }
 
 /*********************/
